@@ -1,0 +1,18 @@
+{
+  "id": "ai-voice-agent-hindi",
+  "compositionId": "AIVoiceAgentHindi",
+  "title": "रीयल-टाइम वॉइस AI एजेंट कैसे काम करता है",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "narration": [
+    {"file": "audio/ai-voice-agent/hindi/1-hook.mp3", "from": 0, "durationInFrames": 544},
+    {"file": "audio/ai-voice-agent/hindi/2-channel.mp3", "from": 544, "durationInFrames": 590},
+    {"file": "audio/ai-voice-agent/hindi/3-i-pipeline-part 1.mp3", "from": 1134, "durationInFrames": 623},
+    {"file": "audio/ai-voice-agent/hindi/3-ii-pipeline-part 2..mp3", "from": 1757, "durationInFrames": 2245},
+    {"file": "audio/ai-voice-agent/hindi/4-knowledge-actions.mp3", "from": 4002, "durationInFrames": 1756},
+    {"file": "audio/ai-voice-agent/hindi/5-safety.mp3", "from": 5758, "durationInFrames": 689},
+    {"file": "audio/ai-voice-agent/hindi/6-observability.mp3", "from": 6447, "durationInFrames": 359},
+    {"file": "audio/ai-voice-agent/hindi/7-recap.mp3", "from": 6806, "durationInFrames": 968}
+  ]
+}

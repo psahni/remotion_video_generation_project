@@ -1,0 +1,9 @@
+[
+  {"id": "hook", "durationInFrames": 544, "visualKey": "architecture"},
+  {"id": "channel", "durationInFrames": 590, "visualKey": "architecture"},
+  {"id": "pipeline", "durationInFrames": 2868, "visualKey": "architecture"},
+  {"id": "knowledge-actions", "durationInFrames": 1756, "visualKey": "architecture"},
+  {"id": "safety", "durationInFrames": 689, "visualKey": "architecture"},
+  {"id": "observability", "durationInFrames": 359, "visualKey": "architecture"},
+  {"id": "recap", "durationInFrames": 968, "visualKey": "architecture"}
+]
