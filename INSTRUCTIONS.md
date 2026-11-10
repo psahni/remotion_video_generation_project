@@ -6,7 +6,7 @@
 - Resolution: 1080 × 1920
 - Framerate: 30 FPS
 - Duration: 900 frames / 30 seconds
-- Output: `out/scaling-video.mp4` (H.264)
+- Output: `out/scaling.mp4` (H.264)
 
 ## Prerequisites
 Install Node.js (current LTS recommended), npm, and Git. Verify:
@@ -36,21 +36,19 @@ If an AI agent has already scaffolded the project, do not scaffold it a second t
 ## 3. Verify files and scripts
 Ensure that `src/Root.tsx` registers a `Composition` with ID `ScalingVideo`, duration `900`, fps `30`, width `1080`, and height `1920`. Verify the package's existing Remotion entrypoint points to `src/index.ts` (or the generated entrypoint).
 
-In `package.json`, include working scripts equivalent to:
+The project already defines these scripts in `package.json`:
 
-```json
-{
-  "scripts": {
-    "dev": "remotion studio",
-    "build": "remotion render ScalingVideo out/scaling-video.mp4 --codec h264 --crf 18",
-    "render:scene5": "remotion render ScalingVideo out/scene5.mp4 --frames=720-899 --codec h264",
-    "typecheck": "tsc --noEmit",
-    "render:frames": "remotion still ScalingVideo out/scene5-preview.png --frame=810"
-  }
-}
+```bash
+npm run dev
+npm run build
+npm run render:topic -- --topic scaling
+npm run render:scene5
+npm run render:frames
+npm run typecheck
+npm run validate
 ```
 
-Merge these into the scaffold-generated scripts without deleting necessary existing entries. Add a `validate` script that executes the project's actual implemented timeline validator and TypeScript check. Use `npx remotion` directly if scripts were not set up.
+`render:topic` accepts a topic ID and optional scene/output arguments. Keep the existing scripts when adding new ones.
 
 ## 4. Preview
 
@@ -69,19 +67,18 @@ npm run render:frames
 
 The comparison scene runs from global frames 720 through 899 (6 seconds). Check that blue and green cards have equal sizes, server illustrations are bottom aligned, all content fits inside the panels, and subtitles remain below the panels without collisions.
 
-## 6. Render full video
+## 6. Render the full video
 
 ```bash
-npm run typecheck
-npm run build
+npm run render:topic -- --topic scaling
 ```
 
-Expected result: `out/scaling-video.mp4`.
+Expected result: `out/scaling.mp4`. The render includes the topic's narration clips when their audio files are present in `public/audio/`; if a clip is missing, it is skipped.
 
-To render manually without package scripts:
+To run validation separately:
 
 ```bash
-npx remotion render ScalingVideo out/scaling-video.mp4 --codec h264 --crf 18
+npm run validate
 ```
 
 ## 7. Add audio
@@ -94,14 +91,16 @@ A single optional voiceover can alternatively be configured with `"audioPath": "
 Frame-based captions are *not* automatically aligned to speech. Adjust caption cue starts/durations separately if the voiceover changes.
 
 ## 8. Edit content
-- Narration and scene definitions: `src/data/script.ts`.
-- Subtitle timing: `src/data/captions.ts`.
-- Colors: `src/styles/theme.ts`.
-- Illustrations: `src/components/ServerSVG.tsx`, `VerticalServer.tsx`, `HorizontalFleet.tsx`.
-- Comparison layout: `src/scenes/OutroScene.tsx`.
-- Overall composition: `src/ScalingVideo.tsx` and `src/Root.tsx`.
+- Scaling topic script: `topics/scaling/script.ts`.
+- Scaling topic captions and subtitle timing: `topics/scaling/captions.ts`.
+- Scaling scene order, durations, and visual settings: `topics/scaling/scenes.json`.
+- Scaling topic visuals and comparison layout: `topics/scaling/visuals.tsx`.
+- Scaling topic metadata and narration clip timing: `topics/scaling/topic.json`.
+- Shared rendering components, transitions, subtitles, and reusable server animations: `src/engine/`.
+- Shared colors: `src/engine/styles/theme.ts`.
+- Topic discovery and composition registration: `src/Root.tsx`.
 
-To change duration, update scene timing, composition duration, and subtitle cues together. Frame times are calculated as `seconds × 30`.
+To change scene durations, edit that topic's `scenes.json` and update its caption timings as needed. The engine derives the composition duration from the scene list. Frame times are calculated as `seconds × 30`.
 
 ## 9. Troubleshooting
 - **`remotion: command not found`:** Run `npm install`, then use `npx remotion ...` or npm scripts.
