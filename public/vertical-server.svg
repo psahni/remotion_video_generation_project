@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b2b49"/>
+      <stop offset="1" stop-color="#0a1326"/>
+    </linearGradient>
+  </defs>
+  <rect x="11" y="9" width="218" height="342" rx="24" fill="url(#shell)" stroke="#344563" stroke-width="5"/>
+  <g fill="#0b1428" stroke="#30415e" stroke-width="3">
+    <rect x="31" y="31" width="178" height="63" rx="11"/>
+    <rect x="31" y="109" width="178" height="63" rx="11"/>
+    <rect x="31" y="187" width="178" height="63" rx="11"/>
+    <rect x="31" y="265" width="178" height="63" rx="11"/>
+  </g>
+  <g fill="#253752">
+    <path d="M48 44h118v7H48zm0 15h118v7H48zm0 15h82v7H48zm0 63h118v7H48zm0 15h118v7H48zm0 15h82v7H48zm0 63h118v7H48zm0 15h118v7H48zm0 15h82v7H48zm0 63h118v7H48zm0 15h118v7H48zm0 15h82v7H48z"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="185" cy="54" r="6"/><circle cx="185" cy="132" r="6"/>
+    <circle cx="185" cy="210" r="6"/><circle cx="185" cy="288" r="6"/>
+  </g>
+  <path d="M37 337h166" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+</svg>
