@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hook",
+    "durationInFrames": 120,
+    "visualKey": "hook",
+    "visualProps": {"shake": 8}
+  },
+  {
+    "id": "vertical",
+    "durationInFrames": 180,
+    "visualKey": "vertical",
+    "visualProps": {"growthFrames": 54, "maxScale": 1.4}
+  },
+  {
+    "id": "limit",
+    "durationInFrames": 180,
+    "visualKey": "limit",
+    "visualProps": {"impactFrame": 54}
+  },
+  {
+    "id": "horizontal",
+    "durationInFrames": 240,
+    "visualKey": "horizontal",
+    "visualProps": {"serverCount": 5, "staggerFrames": 6}
+  },
+  {
+    "id": "comparison",
+    "durationInFrames": 180,
+    "visualKey": "comparison",
+    "visualProps": {"panelDelay": 12}
+  }
+]

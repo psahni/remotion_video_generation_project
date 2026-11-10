@@ -1,0 +1,15 @@
+{
+  "id": "scaling",
+  "compositionId": "ScalingVideo",
+  "title": "Vertical Scaling vs Horizontal Scaling",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "narration": [
+    {"file": "audio/scene_1.mp3", "from": 0},
+    {"file": "audio/scene_2.mp3", "from": 144},
+    {"file": "audio/scene_3.mp3", "from": 348},
+    {"file": "audio/scene_4.mp3", "from": 511},
+    {"file": "audio/scene_5.mp3", "from": 686}
+  ]
+}
