@@ -22,7 +22,12 @@ const argumentsList = [
   'src/index.ts',
   metadata.compositionId,
   output,
+  '--overwrite',
   '--codec=h264',
+  '--audio-codec=aac',
+  '--audio-bitrate=192k',
+  '--sample-rate=48000',
+  '--pixel-format=yuv420p',
 ];
 
 if (options.scene) {

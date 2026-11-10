@@ -73,7 +73,7 @@ The comparison scene runs from global frames 720 through 899 (6 seconds). Check 
 npm run render:topic -- --topic scaling
 ```
 
-Expected result: `out/scaling.mp4`. The render includes the topic's narration clips when their audio files are present in `public/audio/`; if a clip is missing, it is skipped.
+Expected result: `out/scaling.mp4`. The render includes the topic's narration clips when their audio files are present in `public/audio/`; if a clip is missing, it is skipped. Exports use H.264 video, AAC audio at 48 kHz, and `yuv420p` pixel format for broad YouTube and Instagram compatibility.
 
 To run validation separately:
 
