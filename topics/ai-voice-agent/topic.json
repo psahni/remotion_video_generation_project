@@ -1,0 +1,18 @@
+{
+  "id": "ai-voice-agent",
+  "compositionId": "AIVoiceAgent",
+  "title": "How a Real-Time Voice AI Agent Actually Works",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "narration": [
+    {"file": "audio/ai-voice-agent/1-hook.mp3", "from": 0, "durationInFrames": 359},
+    {"file": "audio/ai-voice-agent/2-channel.mp3", "from": 359, "durationInFrames": 453},
+    {"file": "audio/ai-voice-agent/3-i-pipeline-part 1.mp3", "from": 812, "durationInFrames": 590},
+    {"file": "audio/ai-voice-agent/3-ii-pipeline-part 2..mp3", "from": 1402, "durationInFrames": 1773},
+    {"file": "audio/ai-voice-agent/4-knowledge-actions.mp3", "from": 3175, "durationInFrames": 1487},
+    {"file": "audio/ai-voice-agent/5-safety.mp3", "from": 4662, "durationInFrames": 563},
+    {"file": "audio/ai-voice-agent/6-observability.mp3", "from": 5225, "durationInFrames": 304},
+    {"file": "audio/ai-voice-agent/7-recap.mp3", "from": 5529, "durationInFrames": 743}
+  ]
+}
