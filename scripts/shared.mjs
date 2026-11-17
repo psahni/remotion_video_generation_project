@@ -41,6 +41,9 @@ export const loadTopicMetadata = (topicId) => {
 
 export const getAudioPaths = (metadata) => {
   const paths = [
+    ...(Array.isArray(metadata.audioFiles)
+      ? metadata.audioFiles.filter((audioPath) => typeof audioPath === 'string')
+      : []),
     ...(typeof metadata.audioPath === 'string' ? [metadata.audioPath] : []),
     ...(Array.isArray(metadata.narration)
       ? metadata.narration.flatMap((clip) =>

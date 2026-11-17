@@ -12,6 +12,8 @@ export type NarrationClip = {
   from: number;
   durationInFrames?: number;
   volume?: number;
+  playbackRate?: number;
+  preservePitch?: boolean;
 };
 
 export type SceneDefinition = {

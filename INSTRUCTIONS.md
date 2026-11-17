@@ -88,6 +88,8 @@ Each narration clip has a public-relative `file` path and `from` frame. Audio pl
 
 A single optional voiceover can alternatively be configured with `"audioPath": "audio/voiceover.mp3"` in `topic.json`.
 
+For topics that build narration clips dynamically, list their public-relative files in `topic.json` under `"audioFiles"`. The preview and render scripts use this list to make those files available to the narration component.
+
 Frame-based captions are *not* automatically aligned to speech. Adjust caption cue starts/durations separately if the voiceover changes.
 
 ## 8. Edit content
