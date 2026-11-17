@@ -36,6 +36,7 @@ export type TopicDefinition = {
   width: number;
   height: number;
   fps: number;
+  persistentLabel?: string;
   audioPath?: string;
   narration?: NarrationClip[];
   scenes: SceneDefinition[];

@@ -41,6 +41,25 @@ export const TopicVideo = ({topic}: TopicVideoProps) => {
           </Sequence>
         );
       })}
+      {topic.persistentLabel && (
+        <div style={{
+          position: 'absolute',
+          top: 54,
+          left: 72,
+          zIndex: 100,
+          display: 'flex',
+          alignItems: 'center',
+          gap: 12,
+          padding: '13px 20px',
+          borderRadius: 28,
+          background: '#E8F2E8',
+          color: '#2D7659',
+          font: '700 24px Arial, sans-serif',
+        }}>
+          <span style={{width: 12, height: 12, borderRadius: 99, background: '#2D7659'}} />
+          {topic.persistentLabel}
+        </div>
+      )}
     </>
   );
 };
