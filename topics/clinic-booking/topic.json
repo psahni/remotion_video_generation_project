@@ -1,0 +1,20 @@
+{
+  "id": "clinic-booking",
+  "compositionId": "ClinicBooking",
+  "title": "Maple Care Clinic — WhatsApp Booking",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "persistentLabel": "Product concept preview",
+  "narration": [
+    {"file": "audio/clinic-booking/01-scene-1.wav", "from": 0},
+    {"file": "audio/clinic-booking/02-scene-2.wav", "from": 150},
+    {"file": "audio/clinic-booking/03-scene-3.wav", "from": 330},
+    {"file": "audio/clinic-booking/04-scene-4.wav", "from": 600},
+    {"file": "audio/clinic-booking/05-scene-5.wav", "from": 870},
+    {"file": "audio/clinic-booking/06-scene-6.wav", "from": 1050},
+    {"file": "audio/clinic-booking/07-scene-7.wav", "from": 1290},
+    {"file": "audio/clinic-booking/08-scene-8.wav", "from": 1500},
+    {"file": "audio/clinic-booking/09-scene-9.wav", "from": 1680}
+  ]
+}

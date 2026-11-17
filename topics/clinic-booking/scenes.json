@@ -1,0 +1,11 @@
+[
+  {"id": "intro", "durationInFrames": 150, "visualKey": "clinic"},
+  {"id": "start-chat", "durationInFrames": 180, "visualKey": "clinic"},
+  {"id": "verify-email", "durationInFrames": 270, "visualKey": "clinic"},
+  {"id": "choose-slot", "durationInFrames": 270, "visualKey": "clinic"},
+  {"id": "booking-confirmed", "durationInFrames": 180, "visualKey": "clinic"},
+  {"id": "daily-agenda", "durationInFrames": 240, "visualKey": "clinic"},
+  {"id": "availability", "durationInFrames": 210, "visualKey": "clinic"},
+  {"id": "cancellation", "durationInFrames": 180, "visualKey": "clinic"},
+  {"id": "outro", "durationInFrames": 120, "visualKey": "clinic"}
+]

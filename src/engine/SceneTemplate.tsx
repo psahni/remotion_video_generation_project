@@ -29,19 +29,21 @@ export const SceneTemplate = ({
   }
 
   return (
-    <SceneTransition durationInFrames={durationInFrames}>
-      <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: theme.background}}>
-        <div
-          style={{
-            position: 'absolute',
-            inset: 0,
-            background:
-              'radial-gradient(ellipse at 50% 45%, rgba(32, 63, 107, 0.23) 0%, rgba(8, 14, 30, 0) 58%)',
-          }}
-        />
-        <Visual scene={scene} script={script} durationInFrames={durationInFrames} />
-        <Captions cues={cues} />
-      </div>
-    </SceneTransition>
+    <>
+      <SceneTransition durationInFrames={durationInFrames}>
+        <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: theme.background}}>
+          <div
+            style={{
+              position: 'absolute',
+              inset: 0,
+              background:
+                'radial-gradient(ellipse at 50% 45%, rgba(32, 63, 107, 0.23) 0%, rgba(8, 14, 30, 0) 58%)',
+            }}
+          />
+          <Visual scene={scene} script={script} durationInFrames={durationInFrames} />
+        </div>
+      </SceneTransition>
+      <Captions cues={cues} />
+    </>
   );
 };
