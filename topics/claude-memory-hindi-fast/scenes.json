@@ -1,0 +1,9 @@
+[
+  {"id": "hook", "durationInFrames": 746, "visualKey": "hook"},
+  {"id": "two-memories", "durationInFrames": 624, "visualKey": "memory-types"},
+  {"id": "claude-md", "durationInFrames": 1106, "visualKey": "memory"},
+  {"id": "personal-rules", "durationInFrames": 1106, "visualKey": "memory"},
+  {"id": "auto-memory", "durationInFrames": 1106, "visualKey": "memory"},
+  {"id": "golden-rule", "durationInFrames": 552, "visualKey": "memory"},
+  {"id": "outro", "durationInFrames": 704, "visualKey": "memory"}
+]

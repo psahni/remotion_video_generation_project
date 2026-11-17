@@ -26,7 +26,12 @@ export const Narration = ({clips}: NarrationProps) => {
             durationInFrames={clip.durationInFrames}
             name={`Narration: ${clip.file}`}
           >
-            <Audio src={staticFile(clip.file)} volume={clip.volume ?? 1} />
+            <Audio
+              src={staticFile(clip.file)}
+              volume={clip.volume ?? 1}
+              playbackRate={clip.playbackRate}
+              preservePitch={clip.preservePitch}
+            />
           </Sequence>
         ))}
     </>

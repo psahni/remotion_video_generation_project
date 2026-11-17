@@ -1,0 +1,17 @@
+{
+  "id": "claude-memory-hindi",
+  "compositionId": "claude-memory-hindi",
+  "title": "Claude Memory: Hinglish Guide",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "audioFiles": [
+    "audio/claude-memory/01-hook.wav",
+    "audio/claude-memory/02-two-memories.wav",
+    "audio/claude-memory/03-claude-md.wav",
+    "audio/claude-memory/04-personal-rules.wav",
+    "audio/claude-memory/05-auto-memory.wav",
+    "audio/claude-memory/06-golden-rule.wav",
+    "audio/claude-memory/07-teaser-outro.wav"
+  ]
+}
