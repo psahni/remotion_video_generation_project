@@ -1,6 +1,6 @@
 export const clinicBookingScript: Record<string, string> = {
   intro:
-    'Let patients book through WhatsApp, while your clinic manages appointments in one place.',
+    '[confident] Let patients book through WhatsApp, while your clinic manages appointments in one place.',
   'start-chat':
     'The patient messages the clinic and taps Book Appointment.',
   'verify-email':
@@ -10,7 +10,7 @@ export const clinicBookingScript: Record<string, string> = {
   'booking-confirmed':
     'Once saved, the appointment is confirmed on WhatsApp and appears in the clinic’s agenda.',
   'daily-agenda':
-    'Doctors and reception staff can view the day’s appointments and book visits for patients who call.',
+    '[warmly] Doctors and reception staff can view the day’s appointments and book visits for patients who call.',
   availability:
     'The doctor controls working hours and breaks, so patients see times they can actually book.',
   cancellation:

@@ -30,7 +30,10 @@ export const SceneTemplate = ({
 
   return (
     <>
-      <SceneTransition durationInFrames={durationInFrames}>
+      <SceneTransition
+        durationInFrames={durationInFrames}
+        transitionDurationInFrames={topic.transitionDurationInFrames}
+      >
         <div style={{position: 'absolute', inset: 0, overflow: 'hidden', background: theme.background}}>
           <div
             style={{

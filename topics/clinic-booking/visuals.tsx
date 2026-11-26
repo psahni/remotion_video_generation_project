@@ -150,14 +150,15 @@ const Phone = ({children, left, top, width, height}: {
   </Panel>
 );
 
-const TapRipple = ({frame, start, left, top, size = 88}: {
+const TapRipple = ({frame, start, left, top, size = 88, durationInFrames = 24}: {
   frame: number;
   start: number;
   left: number;
   top: number;
   size?: number;
+  durationInFrames?: number;
 }) => {
-  const progress = interpolate(frame, [start, start + 24], [0, 1], {
+  const progress = interpolate(frame, [start, start + durationInFrames], [0, 1], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
@@ -533,7 +534,7 @@ const ChooseSlotVisual = ({frame}: {frame: number}) => (
             <div style={{marginTop: 4, color: colors.muted, font: `500 18px ${font}`}}>
               Opt in to future WhatsApp appointment updates
             </div>
-            <TapRipple frame={frame} start={138} left={812} top={42} size={94} />
+            <TapRipple frame={frame} start={138} left={812} top={42} size={94} durationInFrames={12} />
           </div>
           <div style={{
             padding: '11px 18px',

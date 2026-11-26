@@ -37,6 +37,7 @@ export type TopicDefinition = {
   height: number;
   fps: number;
   persistentLabel?: string;
+  transitionDurationInFrames?: number;
   audioPath?: string;
   narration?: NarrationClip[];
   scenes: SceneDefinition[];

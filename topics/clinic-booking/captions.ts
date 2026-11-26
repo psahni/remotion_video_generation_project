@@ -6,14 +6,14 @@ export const clinicBookingCaptions: Record<string, CaptionCue[]> = {
     {startFrame: 56, durationInFrames: 90, text: 'while your clinic manages appointments in one place.'},
   ],
   'start-chat': [
-    {startFrame: 0, durationInFrames: 47, text: 'The patient messages the clinic'},
-    {startFrame: 47, durationInFrames: 47, text: 'and taps Book Appointment.'},
+    {startFrame: 0, durationInFrames: 60, text: 'The patient messages the clinic'},
+    {startFrame: 60, durationInFrames: 49, text: 'and taps Book Appointment.'},
   ],
   'verify-email': [
-    {startFrame: 0, durationInFrames: 58, text: 'They share their name and email,'},
+    {startFrame: 0, durationInFrames: 65, text: 'They share their name and email,'},
     {
-      startFrame: 58,
-      durationInFrames: 98,
+      startFrame: 65,
+      durationInFrames: 109,
       text: 'then enter the email verification code directly in the chat.',
     },
   ],
@@ -23,7 +23,7 @@ export const clinicBookingCaptions: Record<string, CaptionCue[]> = {
   ],
   'booking-confirmed': [
     {startFrame: 0, durationInFrames: 82, text: 'Once saved, the appointment is confirmed on WhatsApp'},
-    {startFrame: 82, durationInFrames: 62, text: 'and appears in the clinic’s agenda.'},
+    {startFrame: 82, durationInFrames: 69, text: 'and appears in the clinic’s agenda.'},
   ],
   'daily-agenda': [
     {startFrame: 0, durationInFrames: 87, text: 'Doctors and reception staff can view the day’s appointments'},
@@ -38,6 +38,6 @@ export const clinicBookingCaptions: Record<string, CaptionCue[]> = {
     {startFrame: 53, durationInFrames: 75, text: 'the patient receives an update on WhatsApp.'},
   ],
   outro: [
-    {startFrame: 0, durationInFrames: 120, text: 'Maple Care Clinic. Easy booking for patients. Clear team schedule.'},
+    {startFrame: 0, durationInFrames: 170, text: 'Maple Care Clinic. Easy booking for patients. Clear team schedule.'},
   ],
 };
