@@ -80,3 +80,29 @@ if (
 }
 
 console.log(`Validated ${checked} topic timeline(s); scaling is 900 frames at 1080x1920, 30 fps.`);
+
+const clinicFolder = path.join(topicsDirectory, 'clinic-booking');
+const clinicMetadata = JSON.parse(readFileSync(path.join(clinicFolder, 'topic.json'), 'utf8'));
+const clinicScenes = JSON.parse(readFileSync(path.join(clinicFolder, 'scenes.json'), 'utf8'));
+const clinicDurations = [150, 111, 177, 154, 157, 160, 169, 133, 170];
+const clinicBoundaries = [];
+let clinicFrame = 0;
+for (const scene of clinicScenes) {
+  clinicBoundaries.push(clinicFrame);
+  clinicFrame += scene.durationInFrames;
+}
+const expectedClinicBoundaries = [0, 150, 261, 438, 592, 749, 909, 1078, 1211];
+if (
+  clinicMetadata.compositionId !== 'ClinicBooking' ||
+  clinicMetadata.width !== 1080 ||
+  clinicMetadata.height !== 1920 ||
+  clinicMetadata.fps !== 30 ||
+  clinicScenes.length !== clinicDurations.length ||
+  clinicFrame !== 1381 ||
+  clinicScenes.some((scene, index) => scene.durationInFrames !== clinicDurations[index]) ||
+  clinicBoundaries.some((boundary, index) => boundary !== expectedClinicBoundaries[index])
+) {
+  throw new Error('The clinic-booking topic must keep its nine exact scene boundaries and 1800-frame format.');
+}
+
+console.log(`Validated clinic-booking at ${clinicFrame} frames (${(clinicFrame / 30).toFixed(2)} seconds), 1080x1920, 30 fps.`);
