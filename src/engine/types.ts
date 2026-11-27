@@ -5,6 +5,13 @@ export type CaptionCue = {
   durationInFrames: number;
   text: string;
   highlightedKeyword?: string;
+  words?: CaptionWordTiming[];
+};
+
+export type CaptionWordTiming = {
+  text: string;
+  startFrame: number;
+  durationInFrames: number;
 };
 
 export type NarrationClip = {
@@ -20,6 +27,8 @@ export type SceneDefinition = {
   id: string;
   durationInFrames: number;
   visualKey: string;
+  image?: string;
+  imageZoom?: number;
   visualProps?: Record<string, number | string | boolean | undefined>;
 };
 

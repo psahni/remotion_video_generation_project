@@ -7,10 +7,14 @@
     "dev": "node scripts/dev.mjs",
     "build": "npm run render:topic -- --topic scaling --output out/scaling.mp4",
     "render:topic": "node scripts/render-topic.mjs",
+    "zip:media": "node scripts/zip-generated-media.mjs",
+    "create:video": "node --env-file=.env scripts/create-video.mjs",
+    "align:captions": "node --env-file=.env scripts/align-topic-captions.mjs",
     "render:scene5": "npm run render:topic -- --topic scaling --scene comparison --output out/scaling-scene5.mp4",
     "render:frames": "node scripts/render-frames.mjs --topic scaling",
+    "test": "node --test scripts/*.test.mjs",
     "typecheck": "tsc --noEmit",
-    "validate": "npm run typecheck && node scripts/validate-timeline.mjs"
+    "validate": "npm run typecheck && node scripts/validate-timeline.mjs && npm test"
   },
   "dependencies": {
     "@remotion/cli": "4.0.542",

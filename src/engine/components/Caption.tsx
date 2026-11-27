@@ -8,14 +8,22 @@ type CaptionProps = {
 export const Caption = ({cue}: CaptionProps) => {
   const frame = useCurrentFrame();
   const cueFrame = frame - cue.startFrame;
-  const opacity = interpolate(cueFrame, [0, 5, cue.durationInFrames - 5, cue.durationInFrames], [0, 1, 1, 0], {
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
+  const fadeFrames = Math.min(5, Math.floor((cue.durationInFrames - 1) / 2));
+  const opacity = fadeFrames > 0
+    ? interpolate(
+        cueFrame,
+        [0, fadeFrames, cue.durationInFrames - fadeFrames, cue.durationInFrames],
+        [0, 1, 1, 0],
+        {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'},
+      )
+    : 1;
   const translateY = interpolate(cueFrame, [0, 6], [18, 0], {
     extrapolateLeft: 'clamp',
     extrapolateRight: 'clamp',
   });
+  const activeWordIndex = cue.words?.findIndex(
+    (word) => frame >= word.startFrame && frame < word.startFrame + word.durationInFrames,
+  ) ?? -1;
   const parts = cue.highlightedKeyword
     ? cue.text.split(cue.highlightedKeyword)
     : [cue.text];
@@ -24,10 +32,10 @@ export const Caption = ({cue}: CaptionProps) => {
     <div
       style={{
         position: 'absolute',
-        top: 1570,
+        top: 1470,
         left: 88,
         width: 904,
-        minHeight: 92,
+        minHeight: 112,
         boxSizing: 'border-box',
         display: 'flex',
         alignItems: 'center',
@@ -37,24 +45,37 @@ export const Caption = ({cue}: CaptionProps) => {
         borderRadius: 22,
         background: 'rgba(16, 29, 54, 0.96)',
         color: '#F8FAFC',
-        font: '800 34px Inter, Arial, sans-serif',
-        lineHeight: 1.2,
+        font: '800 42px Inter, Arial, sans-serif',
+        lineHeight: 1.3,
         textAlign: 'center',
         opacity,
         transform: `translateY(${translateY}px)`,
         boxShadow: '0 16px 48px rgba(0, 0, 0, 0.28)',
       }}
     >
-      <span>
-        {parts.map((part, index) => (
-          <span key={`${index}-${part}`}>
-            {part}
-            {cue.highlightedKeyword && index < parts.length - 1 && (
-              <span style={{color: '#FACC15'}}>{cue.highlightedKeyword}</span>
-            )}
-          </span>
-        ))}
-      </span>
+      {cue.words ? (
+        <span>
+          {cue.words.map((word, index) => (
+            <span key={`${word.startFrame}-${index}`}>
+              {index > 0 && !/^[,.;:!?]/.test(word.text) ? ' ' : ''}
+              <span style={activeWordIndex === index ? {color: '#FACC15'} : undefined}>
+                {word.text}
+              </span>
+            </span>
+          ))}
+        </span>
+      ) : (
+        <span>
+          {parts.map((part, index) => (
+            <span key={`${index}-${part}`}>
+              {part}
+              {cue.highlightedKeyword && index < parts.length - 1 && (
+                <span style={{color: '#FACC15'}}>{cue.highlightedKeyword}</span>
+              )}
+            </span>
+          ))}
+        </span>
+      )}
     </div>
   );
 };

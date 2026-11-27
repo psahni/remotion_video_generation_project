@@ -1,3 +1,4 @@
+import {Img, interpolate, staticFile, useCurrentFrame} from 'remotion';
 import {Captions} from './components/Captions';
 import {SceneTransition} from './components/SceneTransition';
 import {theme} from './styles/theme';
@@ -14,11 +15,20 @@ export const SceneTemplate = ({
   scene,
   durationInFrames,
 }: SceneTemplateProps) => {
-  const Visual = topic.visuals[scene.visualKey];
+  const frame = useCurrentFrame();
+  const Visual = scene.image ? undefined : topic.visuals[scene.visualKey];
   const script = topic.script[scene.id];
   const cues = topic.captions[scene.id];
+  const imageZoom = scene.imageZoom ?? 1.22;
+  const imageZoomDuration = Math.max(1, Math.floor(durationInFrames / 2));
+  const imageScale = interpolate(
+    frame,
+    [0, imageZoomDuration],
+    [1, imageZoom],
+    {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'},
+  );
 
-  if (!Visual) {
+  if (!scene.image && !Visual) {
     throw new Error(`Topic "${topic.id}" has no visual registered for "${scene.visualKey}".`);
   }
   if (!script) {
@@ -43,7 +53,22 @@ export const SceneTemplate = ({
                 'radial-gradient(ellipse at 50% 45%, rgba(32, 63, 107, 0.23) 0%, rgba(8, 14, 30, 0) 58%)',
             }}
           />
-          <Visual scene={scene} script={script} durationInFrames={durationInFrames} />
+          {scene.image ? (
+            <Img
+              src={staticFile(scene.image)}
+              style={{
+                position: 'absolute',
+                inset: 0,
+                width: '100%',
+                height: '100%',
+                objectFit: 'cover',
+                transform: `scale(${imageScale})`,
+                transformOrigin: 'center center',
+              }}
+            />
+          ) : (
+            Visual && <Visual scene={scene} script={script} durationInFrames={durationInFrames} />
+          )}
         </div>
       </SceneTransition>
       <Captions cues={cues} />
