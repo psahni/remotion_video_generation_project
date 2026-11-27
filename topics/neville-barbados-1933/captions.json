@@ -1,0 +1,2184 @@
+{
+  "scene-1": [
+    {
+      "startFrame": 25,
+      "durationInFrames": 67,
+      "text": "It was late nineteen thirty-three...",
+      "words": [
+        {
+          "text": "It",
+          "startFrame": 25,
+          "durationInFrames": 2
+        },
+        {
+          "text": "was",
+          "startFrame": 28,
+          "durationInFrames": 7
+        },
+        {
+          "text": "late",
+          "startFrame": 38,
+          "durationInFrames": 8
+        },
+        {
+          "text": "nineteen",
+          "startFrame": 48,
+          "durationInFrames": 15
+        },
+        {
+          "text": "thirty-three...",
+          "startFrame": 66,
+          "durationInFrames": 26
+        }
+      ]
+    },
+    {
+      "startFrame": 108,
+      "durationInFrames": 62,
+      "text": "and the Great Depression was crushing",
+      "words": [
+        {
+          "text": "and",
+          "startFrame": 108,
+          "durationInFrames": 3
+        },
+        {
+          "text": "the",
+          "startFrame": 112,
+          "durationInFrames": 2
+        },
+        {
+          "text": "Great",
+          "startFrame": 115,
+          "durationInFrames": 7
+        },
+        {
+          "text": "Depression",
+          "startFrame": 124,
+          "durationInFrames": 17
+        },
+        {
+          "text": "was",
+          "startFrame": 142,
+          "durationInFrames": 6
+        },
+        {
+          "text": "crushing",
+          "startFrame": 150,
+          "durationInFrames": 20
+        }
+      ]
+    },
+    {
+      "startFrame": 171,
+      "durationInFrames": 27,
+      "text": "New York City.",
+      "words": [
+        {
+          "text": "New",
+          "startFrame": 171,
+          "durationInFrames": 5
+        },
+        {
+          "text": "York",
+          "startFrame": 177,
+          "durationInFrames": 8
+        },
+        {
+          "text": "City.",
+          "startFrame": 188,
+          "durationInFrames": 10
+        }
+      ]
+    },
+    {
+      "startFrame": 227,
+      "durationInFrames": 52,
+      "text": "Neville Goddard, far from his home",
+      "words": [
+        {
+          "text": "Neville",
+          "startFrame": 227,
+          "durationInFrames": 7
+        },
+        {
+          "text": "Goddard,",
+          "startFrame": 236,
+          "durationInFrames": 13
+        },
+        {
+          "text": "far",
+          "startFrame": 258,
+          "durationInFrames": 6
+        },
+        {
+          "text": "from",
+          "startFrame": 264,
+          "durationInFrames": 5
+        },
+        {
+          "text": "his",
+          "startFrame": 269,
+          "durationInFrames": 4
+        },
+        {
+          "text": "home",
+          "startFrame": 273,
+          "durationInFrames": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 279,
+      "durationInFrames": 69,
+      "text": "in Barbados, found himself completely out",
+      "words": [
+        {
+          "text": "in",
+          "startFrame": 279,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Barbados,",
+          "startFrame": 282,
+          "durationInFrames": 19
+        },
+        {
+          "text": "found",
+          "startFrame": 309,
+          "durationInFrames": 5
+        },
+        {
+          "text": "himself",
+          "startFrame": 314,
+          "durationInFrames": 11
+        },
+        {
+          "text": "completely",
+          "startFrame": 326,
+          "durationInFrames": 18
+        },
+        {
+          "text": "out",
+          "startFrame": 344,
+          "durationInFrames": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 348,
+      "durationInFrames": 57,
+      "text": "of work... and, as he sadly",
+      "words": [
+        {
+          "text": "of",
+          "startFrame": 348,
+          "durationInFrames": 3
+        },
+        {
+          "text": "work...",
+          "startFrame": 352,
+          "durationInFrames": 10
+        },
+        {
+          "text": "and,",
+          "startFrame": 369,
+          "durationInFrames": 8
+        },
+        {
+          "text": "as",
+          "startFrame": 385,
+          "durationInFrames": 3
+        },
+        {
+          "text": "he",
+          "startFrame": 389,
+          "durationInFrames": 4
+        },
+        {
+          "text": "sadly",
+          "startFrame": 394,
+          "durationInFrames": 11
+        }
+      ]
+    },
+    {
+      "startFrame": 405,
+      "durationInFrames": 57,
+      "text": "put it, \"didn't have a nickel",
+      "words": [
+        {
+          "text": "put",
+          "startFrame": 405,
+          "durationInFrames": 5
+        },
+        {
+          "text": "it,",
+          "startFrame": 411,
+          "durationInFrames": 2
+        },
+        {
+          "text": "\"didn't",
+          "startFrame": 417,
+          "durationInFrames": 26
+        },
+        {
+          "text": "have",
+          "startFrame": 444,
+          "durationInFrames": 3
+        },
+        {
+          "text": "a",
+          "startFrame": 448,
+          "durationInFrames": 2
+        },
+        {
+          "text": "nickel",
+          "startFrame": 452,
+          "durationInFrames": 10
+        }
+      ]
+    },
+    {
+      "startFrame": 463,
+      "durationInFrames": 77,
+      "text": "to his name.\" Thousands of miles",
+      "words": [
+        {
+          "text": "to",
+          "startFrame": 463,
+          "durationInFrames": 4
+        },
+        {
+          "text": "his",
+          "startFrame": 467,
+          "durationInFrames": 5
+        },
+        {
+          "text": "name.\"",
+          "startFrame": 473,
+          "durationInFrames": 11
+        },
+        {
+          "text": "Thousands",
+          "startFrame": 514,
+          "durationInFrames": 12
+        },
+        {
+          "text": "of",
+          "startFrame": 526,
+          "durationInFrames": 4
+        },
+        {
+          "text": "miles",
+          "startFrame": 530,
+          "durationInFrames": 10
+        }
+      ]
+    },
+    {
+      "startFrame": 540,
+      "durationInFrames": 54,
+      "text": "from family... with no visible way",
+      "words": [
+        {
+          "text": "from",
+          "startFrame": 540,
+          "durationInFrames": 5
+        },
+        {
+          "text": "family...",
+          "startFrame": 546,
+          "durationInFrames": 12
+        },
+        {
+          "text": "with",
+          "startFrame": 566,
+          "durationInFrames": 4
+        },
+        {
+          "text": "no",
+          "startFrame": 572,
+          "durationInFrames": 4
+        },
+        {
+          "text": "visible",
+          "startFrame": 578,
+          "durationInFrames": 10
+        },
+        {
+          "text": "way",
+          "startFrame": 589,
+          "durationInFrames": 5
+        }
+      ]
+    },
+    {
+      "startFrame": 595,
+      "durationInFrames": 10,
+      "text": "back.",
+      "words": [
+        {
+          "text": "back.",
+          "startFrame": 595,
+          "durationInFrames": 10
+        }
+      ]
+    }
+  ],
+  "scene-2": [
+    {
+      "startFrame": 5,
+      "durationInFrames": 54,
+      "text": "Seeking guidance, he went to his",
+      "words": [
+        {
+          "text": "Seeking",
+          "startFrame": 5,
+          "durationInFrames": 10
+        },
+        {
+          "text": "guidance,",
+          "startFrame": 17,
+          "durationInFrames": 16
+        },
+        {
+          "text": "he",
+          "startFrame": 40,
+          "durationInFrames": 4
+        },
+        {
+          "text": "went",
+          "startFrame": 45,
+          "durationInFrames": 5
+        },
+        {
+          "text": "to",
+          "startFrame": 51,
+          "durationInFrames": 3
+        },
+        {
+          "text": "his",
+          "startFrame": 54,
+          "durationInFrames": 5
+        }
+      ]
+    },
+    {
+      "startFrame": 60,
+      "durationInFrames": 56,
+      "text": "mentor and teacher — a mystic",
+      "words": [
+        {
+          "text": "mentor",
+          "startFrame": 60,
+          "durationInFrames": 12
+        },
+        {
+          "text": "and",
+          "startFrame": 72,
+          "durationInFrames": 4
+        },
+        {
+          "text": "teacher",
+          "startFrame": 77,
+          "durationInFrames": 13
+        },
+        {
+          "text": "—",
+          "startFrame": 99,
+          "durationInFrames": 1
+        },
+        {
+          "text": "a",
+          "startFrame": 100,
+          "durationInFrames": 2
+        },
+        {
+          "text": "mystic",
+          "startFrame": 104,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 117,
+      "durationInFrames": 30,
+      "text": "known as Abdullah.",
+      "words": [
+        {
+          "text": "known",
+          "startFrame": 117,
+          "durationInFrames": 8
+        },
+        {
+          "text": "as",
+          "startFrame": 126,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Abdullah.",
+          "startFrame": 130,
+          "durationInFrames": 17
+        }
+      ]
+    },
+    {
+      "startFrame": 168,
+      "durationInFrames": 53,
+      "text": "Neville poured out his desperate wish",
+      "words": [
+        {
+          "text": "Neville",
+          "startFrame": 168,
+          "durationInFrames": 9
+        },
+        {
+          "text": "poured",
+          "startFrame": 178,
+          "durationInFrames": 7
+        },
+        {
+          "text": "out",
+          "startFrame": 186,
+          "durationInFrames": 5
+        },
+        {
+          "text": "his",
+          "startFrame": 192,
+          "durationInFrames": 6
+        },
+        {
+          "text": "desperate",
+          "startFrame": 199,
+          "durationInFrames": 13
+        },
+        {
+          "text": "wish",
+          "startFrame": 213,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 222,
+      "durationInFrames": 48,
+      "text": "to be in Barbados for Christmas,",
+      "words": [
+        {
+          "text": "to",
+          "startFrame": 222,
+          "durationInFrames": 2
+        },
+        {
+          "text": "be",
+          "startFrame": 225,
+          "durationInFrames": 3
+        },
+        {
+          "text": "in",
+          "startFrame": 229,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Barbados",
+          "startFrame": 232,
+          "durationInFrames": 18
+        },
+        {
+          "text": "for",
+          "startFrame": 250,
+          "durationInFrames": 4
+        },
+        {
+          "text": "Christmas,",
+          "startFrame": 255,
+          "durationInFrames": 15
+        }
+      ]
+    },
+    {
+      "startFrame": 280,
+      "durationInFrames": 56,
+      "text": "confessing the cold, hard truth...",
+      "words": [
+        {
+          "text": "confessing",
+          "startFrame": 280,
+          "durationInFrames": 18
+        },
+        {
+          "text": "the",
+          "startFrame": 298,
+          "durationInFrames": 4
+        },
+        {
+          "text": "cold,",
+          "startFrame": 303,
+          "durationInFrames": 11
+        },
+        {
+          "text": "hard",
+          "startFrame": 316,
+          "durationInFrames": 7
+        },
+        {
+          "text": "truth...",
+          "startFrame": 324,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 354,
+      "durationInFrames": 112,
+      "text": "zero funds. Abdullah looked straight at",
+      "words": [
+        {
+          "text": "zero",
+          "startFrame": 354,
+          "durationInFrames": 9
+        },
+        {
+          "text": "funds.",
+          "startFrame": 366,
+          "durationInFrames": 16
+        },
+        {
+          "text": "Abdullah",
+          "startFrame": 431,
+          "durationInFrames": 13
+        },
+        {
+          "text": "looked",
+          "startFrame": 444,
+          "durationInFrames": 6
+        },
+        {
+          "text": "straight",
+          "startFrame": 453,
+          "durationInFrames": 8
+        },
+        {
+          "text": "at",
+          "startFrame": 462,
+          "durationInFrames": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 467,
+      "durationInFrames": 55,
+      "text": "him, and spoke five words that",
+      "words": [
+        {
+          "text": "him,",
+          "startFrame": 467,
+          "durationInFrames": 6
+        },
+        {
+          "text": "and",
+          "startFrame": 479,
+          "durationInFrames": 4
+        },
+        {
+          "text": "spoke",
+          "startFrame": 485,
+          "durationInFrames": 9
+        },
+        {
+          "text": "five",
+          "startFrame": 495,
+          "durationInFrames": 9
+        },
+        {
+          "text": "words",
+          "startFrame": 505,
+          "durationInFrames": 10
+        },
+        {
+          "text": "that",
+          "startFrame": 516,
+          "durationInFrames": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 523,
+      "durationInFrames": 41,
+      "text": "shattered Neville's reality...",
+      "words": [
+        {
+          "text": "shattered",
+          "startFrame": 523,
+          "durationInFrames": 13
+        },
+        {
+          "text": "Neville's",
+          "startFrame": 536,
+          "durationInFrames": 11
+        },
+        {
+          "text": "reality...",
+          "startFrame": 547,
+          "durationInFrames": 17
+        }
+      ]
+    },
+    {
+      "startFrame": 564,
+      "durationInFrames": 70,
+      "text": "\"You are ALREADY in Barbados.\"",
+      "words": [
+        {
+          "text": "\"You",
+          "startFrame": 564,
+          "durationInFrames": 22
+        },
+        {
+          "text": "are",
+          "startFrame": 586,
+          "durationInFrames": 5
+        },
+        {
+          "text": "ALREADY",
+          "startFrame": 593,
+          "durationInFrames": 14
+        },
+        {
+          "text": "in",
+          "startFrame": 608,
+          "durationInFrames": 4
+        },
+        {
+          "text": "Barbados.\"",
+          "startFrame": 613,
+          "durationInFrames": 21
+        }
+      ]
+    }
+  ],
+  "scene-3": [
+    {
+      "startFrame": 7,
+      "durationInFrames": 52,
+      "text": "Puzzled, Neville tried to argue the",
+      "words": [
+        {
+          "text": "Puzzled,",
+          "startFrame": 7,
+          "durationInFrames": 12
+        },
+        {
+          "text": "Neville",
+          "startFrame": 25,
+          "durationInFrames": 8
+        },
+        {
+          "text": "tried",
+          "startFrame": 35,
+          "durationInFrames": 9
+        },
+        {
+          "text": "to",
+          "startFrame": 43,
+          "durationInFrames": 3
+        },
+        {
+          "text": "argue",
+          "startFrame": 48,
+          "durationInFrames": 6
+        },
+        {
+          "text": "the",
+          "startFrame": 55,
+          "durationInFrames": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 61,
+      "durationInFrames": 51,
+      "text": "facts — but Abdullah cut him",
+      "words": [
+        {
+          "text": "facts",
+          "startFrame": 61,
+          "durationInFrames": 13
+        },
+        {
+          "text": "—",
+          "startFrame": 84,
+          "durationInFrames": 1
+        },
+        {
+          "text": "but",
+          "startFrame": 85,
+          "durationInFrames": 4
+        },
+        {
+          "text": "Abdullah",
+          "startFrame": 90,
+          "durationInFrames": 12
+        },
+        {
+          "text": "cut",
+          "startFrame": 102,
+          "durationInFrames": 5
+        },
+        {
+          "text": "him",
+          "startFrame": 108,
+          "durationInFrames": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 114,
+      "durationInFrames": 63,
+      "text": "off. \"You are in Barbados...",
+      "words": [
+        {
+          "text": "off.",
+          "startFrame": 114,
+          "durationInFrames": 8
+        },
+        {
+          "text": "\"You",
+          "startFrame": 121,
+          "durationInFrames": 23
+        },
+        {
+          "text": "are",
+          "startFrame": 145,
+          "durationInFrames": 4
+        },
+        {
+          "text": "in",
+          "startFrame": 150,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Barbados...",
+          "startFrame": 154,
+          "durationInFrames": 23
+        }
+      ]
+    },
+    {
+      "startFrame": 186,
+      "durationInFrames": 97,
+      "text": "and you WENT first class.\" The",
+      "words": [
+        {
+          "text": "and",
+          "startFrame": 186,
+          "durationInFrames": 3
+        },
+        {
+          "text": "you",
+          "startFrame": 190,
+          "durationInFrames": 6
+        },
+        {
+          "text": "WENT",
+          "startFrame": 198,
+          "durationInFrames": 11
+        },
+        {
+          "text": "first",
+          "startFrame": 221,
+          "durationInFrames": 9
+        },
+        {
+          "text": "class.\"",
+          "startFrame": 232,
+          "durationInFrames": 19
+        },
+        {
+          "text": "The",
+          "startFrame": 280,
+          "durationInFrames": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 283,
+      "durationInFrames": 36,
+      "text": "instruction was radical.",
+      "words": [
+        {
+          "text": "instruction",
+          "startFrame": 283,
+          "durationInFrames": 16
+        },
+        {
+          "text": "was",
+          "startFrame": 300,
+          "durationInFrames": 4
+        },
+        {
+          "text": "radical.",
+          "startFrame": 306,
+          "durationInFrames": 13
+        }
+      ]
+    },
+    {
+      "startFrame": 343,
+      "durationInFrames": 37,
+      "text": "Don't try to go.",
+      "words": [
+        {
+          "text": "Don't",
+          "startFrame": 343,
+          "durationInFrames": 10
+        },
+        {
+          "text": "try",
+          "startFrame": 355,
+          "durationInFrames": 11
+        },
+        {
+          "text": "to",
+          "startFrame": 367,
+          "durationInFrames": 4
+        },
+        {
+          "text": "go.",
+          "startFrame": 372,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 407,
+      "durationInFrames": 116,
+      "text": "Don't plan how to go. Instead...",
+      "words": [
+        {
+          "text": "Don't",
+          "startFrame": 407,
+          "durationInFrames": 7
+        },
+        {
+          "text": "plan",
+          "startFrame": 415,
+          "durationInFrames": 14
+        },
+        {
+          "text": "how",
+          "startFrame": 444,
+          "durationInFrames": 17
+        },
+        {
+          "text": "to",
+          "startFrame": 463,
+          "durationInFrames": 4
+        },
+        {
+          "text": "go.",
+          "startFrame": 468,
+          "durationInFrames": 9
+        },
+        {
+          "text": "Instead...",
+          "startFrame": 502,
+          "durationInFrames": 21
+        }
+      ]
+    },
+    {
+      "startFrame": 550,
+      "durationInFrames": 102,
+      "text": "fall asleep tonight seeing America FROM",
+      "words": [
+        {
+          "text": "fall",
+          "startFrame": 550,
+          "durationInFrames": 10
+        },
+        {
+          "text": "asleep",
+          "startFrame": 562,
+          "durationInFrames": 14
+        },
+        {
+          "text": "tonight",
+          "startFrame": 577,
+          "durationInFrames": 16
+        },
+        {
+          "text": "seeing",
+          "startFrame": 595,
+          "durationInFrames": 11
+        },
+        {
+          "text": "America",
+          "startFrame": 607,
+          "durationInFrames": 19
+        },
+        {
+          "text": "FROM",
+          "startFrame": 641,
+          "durationInFrames": 11
+        }
+      ]
+    },
+    {
+      "startFrame": 653,
+      "durationInFrames": 147,
+      "text": "Barbados. Live completely in the feeling",
+      "words": [
+        {
+          "text": "Barbados.",
+          "startFrame": 653,
+          "durationInFrames": 25
+        },
+        {
+          "text": "Live",
+          "startFrame": 714,
+          "durationInFrames": 8
+        },
+        {
+          "text": "completely",
+          "startFrame": 724,
+          "durationInFrames": 28
+        },
+        {
+          "text": "in",
+          "startFrame": 769,
+          "durationInFrames": 4
+        },
+        {
+          "text": "the",
+          "startFrame": 774,
+          "durationInFrames": 5
+        },
+        {
+          "text": "feeling",
+          "startFrame": 782,
+          "durationInFrames": 18
+        }
+      ]
+    },
+    {
+      "startFrame": 801,
+      "durationInFrames": 53,
+      "text": "of the wish fulfilled.",
+      "words": [
+        {
+          "text": "of",
+          "startFrame": 801,
+          "durationInFrames": 4
+        },
+        {
+          "text": "the",
+          "startFrame": 806,
+          "durationInFrames": 4
+        },
+        {
+          "text": "wish",
+          "startFrame": 812,
+          "durationInFrames": 11
+        },
+        {
+          "text": "fulfilled.",
+          "startFrame": 831,
+          "durationInFrames": 23
+        }
+      ]
+    }
+  ],
+  "scene-4": [
+    {
+      "startFrame": 9,
+      "durationInFrames": 57,
+      "text": "Night after night, Neville practiced this",
+      "words": [
+        {
+          "text": "Night",
+          "startFrame": 9,
+          "durationInFrames": 5
+        },
+        {
+          "text": "after",
+          "startFrame": 15,
+          "durationInFrames": 6
+        },
+        {
+          "text": "night,",
+          "startFrame": 23,
+          "durationInFrames": 9
+        },
+        {
+          "text": "Neville",
+          "startFrame": 36,
+          "durationInFrames": 8
+        },
+        {
+          "text": "practiced",
+          "startFrame": 45,
+          "durationInFrames": 14
+        },
+        {
+          "text": "this",
+          "startFrame": 60,
+          "durationInFrames": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 67,
+      "durationInFrames": 83,
+      "text": "inner state. Yet, a full week",
+      "words": [
+        {
+          "text": "inner",
+          "startFrame": 67,
+          "durationInFrames": 7
+        },
+        {
+          "text": "state.",
+          "startFrame": 76,
+          "durationInFrames": 11
+        },
+        {
+          "text": "Yet,",
+          "startFrame": 118,
+          "durationInFrames": 5
+        },
+        {
+          "text": "a",
+          "startFrame": 132,
+          "durationInFrames": 3
+        },
+        {
+          "text": "full",
+          "startFrame": 137,
+          "durationInFrames": 6
+        },
+        {
+          "text": "week",
+          "startFrame": 144,
+          "durationInFrames": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 151,
+      "durationInFrames": 63,
+      "text": "later... nothing in his outer life",
+      "words": [
+        {
+          "text": "later...",
+          "startFrame": 151,
+          "durationInFrames": 11
+        },
+        {
+          "text": "nothing",
+          "startFrame": 179,
+          "durationInFrames": 10
+        },
+        {
+          "text": "in",
+          "startFrame": 190,
+          "durationInFrames": 2
+        },
+        {
+          "text": "his",
+          "startFrame": 193,
+          "durationInFrames": 4
+        },
+        {
+          "text": "outer",
+          "startFrame": 198,
+          "durationInFrames": 6
+        },
+        {
+          "text": "life",
+          "startFrame": 205,
+          "durationInFrames": 9
+        }
+      ]
+    },
+    {
+      "startFrame": 214,
+      "durationInFrames": 79,
+      "text": "had changed. He returned to Abdullah,",
+      "words": [
+        {
+          "text": "had",
+          "startFrame": 214,
+          "durationInFrames": 5
+        },
+        {
+          "text": "changed.",
+          "startFrame": 220,
+          "durationInFrames": 17
+        },
+        {
+          "text": "He",
+          "startFrame": 262,
+          "durationInFrames": 3
+        },
+        {
+          "text": "returned",
+          "startFrame": 265,
+          "durationInFrames": 13
+        },
+        {
+          "text": "to",
+          "startFrame": 278,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Abdullah,",
+          "startFrame": 282,
+          "durationInFrames": 11
+        }
+      ]
+    },
+    {
+      "startFrame": 299,
+      "durationInFrames": 41,
+      "text": "anxious to talk about his lack",
+      "words": [
+        {
+          "text": "anxious",
+          "startFrame": 299,
+          "durationInFrames": 10
+        },
+        {
+          "text": "to",
+          "startFrame": 310,
+          "durationInFrames": 3
+        },
+        {
+          "text": "talk",
+          "startFrame": 315,
+          "durationInFrames": 8
+        },
+        {
+          "text": "about",
+          "startFrame": 324,
+          "durationInFrames": 6
+        },
+        {
+          "text": "his",
+          "startFrame": 330,
+          "durationInFrames": 3
+        },
+        {
+          "text": "lack",
+          "startFrame": 334,
+          "durationInFrames": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 340,
+      "durationInFrames": 90,
+      "text": "of progress. Abdullah refused to entertain",
+      "words": [
+        {
+          "text": "of",
+          "startFrame": 340,
+          "durationInFrames": 3
+        },
+        {
+          "text": "progress.",
+          "startFrame": 343,
+          "durationInFrames": 17
+        },
+        {
+          "text": "Abdullah",
+          "startFrame": 381,
+          "durationInFrames": 12
+        },
+        {
+          "text": "refused",
+          "startFrame": 394,
+          "durationInFrames": 16
+        },
+        {
+          "text": "to",
+          "startFrame": 411,
+          "durationInFrames": 3
+        },
+        {
+          "text": "entertain",
+          "startFrame": 414,
+          "durationInFrames": 16
+        }
+      ]
+    },
+    {
+      "startFrame": 431,
+      "durationInFrames": 51,
+      "text": "a single word about reality.",
+      "words": [
+        {
+          "text": "a",
+          "startFrame": 431,
+          "durationInFrames": 3
+        },
+        {
+          "text": "single",
+          "startFrame": 436,
+          "durationInFrames": 10
+        },
+        {
+          "text": "word",
+          "startFrame": 447,
+          "durationInFrames": 9
+        },
+        {
+          "text": "about",
+          "startFrame": 457,
+          "durationInFrames": 8
+        },
+        {
+          "text": "reality.",
+          "startFrame": 466,
+          "durationInFrames": 16
+        }
+      ]
+    },
+    {
+      "startFrame": 496,
+      "durationInFrames": 44,
+      "text": "He shut the door firmly in",
+      "words": [
+        {
+          "text": "He",
+          "startFrame": 496,
+          "durationInFrames": 4
+        },
+        {
+          "text": "shut",
+          "startFrame": 501,
+          "durationInFrames": 7
+        },
+        {
+          "text": "the",
+          "startFrame": 508,
+          "durationInFrames": 4
+        },
+        {
+          "text": "door",
+          "startFrame": 513,
+          "durationInFrames": 6
+        },
+        {
+          "text": "firmly",
+          "startFrame": 525,
+          "durationInFrames": 11
+        },
+        {
+          "text": "in",
+          "startFrame": 537,
+          "durationInFrames": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 540,
+      "durationInFrames": 68,
+      "text": "Neville's face... forcing him to live",
+      "words": [
+        {
+          "text": "Neville's",
+          "startFrame": 540,
+          "durationInFrames": 10
+        },
+        {
+          "text": "face...",
+          "startFrame": 552,
+          "durationInFrames": 12
+        },
+        {
+          "text": "forcing",
+          "startFrame": 578,
+          "durationInFrames": 12
+        },
+        {
+          "text": "him",
+          "startFrame": 590,
+          "durationInFrames": 6
+        },
+        {
+          "text": "to",
+          "startFrame": 597,
+          "durationInFrames": 3
+        },
+        {
+          "text": "live",
+          "startFrame": 600,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 609,
+      "durationInFrames": 45,
+      "text": "solely by his imagination.",
+      "words": [
+        {
+          "text": "solely",
+          "startFrame": 609,
+          "durationInFrames": 12
+        },
+        {
+          "text": "by",
+          "startFrame": 621,
+          "durationInFrames": 5
+        },
+        {
+          "text": "his",
+          "startFrame": 627,
+          "durationInFrames": 4
+        },
+        {
+          "text": "imagination.",
+          "startFrame": 631,
+          "durationInFrames": 23
+        }
+      ]
+    }
+  ],
+  "scene-5": [
+    {
+      "startFrame": 6,
+      "durationInFrames": 87,
+      "text": "Several weeks passed in silence. Then...",
+      "words": [
+        {
+          "text": "Several",
+          "startFrame": 6,
+          "durationInFrames": 8
+        },
+        {
+          "text": "weeks",
+          "startFrame": 15,
+          "durationInFrames": 11
+        },
+        {
+          "text": "passed",
+          "startFrame": 27,
+          "durationInFrames": 11
+        },
+        {
+          "text": "in",
+          "startFrame": 39,
+          "durationInFrames": 4
+        },
+        {
+          "text": "silence.",
+          "startFrame": 44,
+          "durationInFrames": 16
+        },
+        {
+          "text": "Then...",
+          "startFrame": 82,
+          "durationInFrames": 11
+        }
+      ]
+    },
+    {
+      "startFrame": 105,
+      "durationInFrames": 45,
+      "text": "on the morning of December fourth,",
+      "words": [
+        {
+          "text": "on",
+          "startFrame": 105,
+          "durationInFrames": 3
+        },
+        {
+          "text": "the",
+          "startFrame": 108,
+          "durationInFrames": 3
+        },
+        {
+          "text": "morning",
+          "startFrame": 112,
+          "durationInFrames": 8
+        },
+        {
+          "text": "of",
+          "startFrame": 120,
+          "durationInFrames": 3
+        },
+        {
+          "text": "December",
+          "startFrame": 123,
+          "durationInFrames": 12
+        },
+        {
+          "text": "fourth,",
+          "startFrame": 139,
+          "durationInFrames": 11
+        }
+      ]
+    },
+    {
+      "startFrame": 159,
+      "durationInFrames": 53,
+      "text": "Neville spotted an envelope slipped under",
+      "words": [
+        {
+          "text": "Neville",
+          "startFrame": 159,
+          "durationInFrames": 8
+        },
+        {
+          "text": "spotted",
+          "startFrame": 169,
+          "durationInFrames": 10
+        },
+        {
+          "text": "an",
+          "startFrame": 180,
+          "durationInFrames": 3
+        },
+        {
+          "text": "envelope",
+          "startFrame": 184,
+          "durationInFrames": 14
+        },
+        {
+          "text": "slipped",
+          "startFrame": 199,
+          "durationInFrames": 7
+        },
+        {
+          "text": "under",
+          "startFrame": 207,
+          "durationInFrames": 5
+        }
+      ]
+    },
+    {
+      "startFrame": 213,
+      "durationInFrames": 54,
+      "text": "his door! It was from his",
+      "words": [
+        {
+          "text": "his",
+          "startFrame": 213,
+          "durationInFrames": 5
+        },
+        {
+          "text": "door!",
+          "startFrame": 219,
+          "durationInFrames": 11
+        },
+        {
+          "text": "It",
+          "startFrame": 251,
+          "durationInFrames": 3
+        },
+        {
+          "text": "was",
+          "startFrame": 254,
+          "durationInFrames": 4
+        },
+        {
+          "text": "from",
+          "startFrame": 258,
+          "durationInFrames": 5
+        },
+        {
+          "text": "his",
+          "startFrame": 262,
+          "durationInFrames": 5
+        }
+      ]
+    },
+    {
+      "startFrame": 268,
+      "durationInFrames": 37,
+      "text": "brother in Barbados.",
+      "words": [
+        {
+          "text": "brother",
+          "startFrame": 268,
+          "durationInFrames": 9
+        },
+        {
+          "text": "in",
+          "startFrame": 277,
+          "durationInFrames": 4
+        },
+        {
+          "text": "Barbados.",
+          "startFrame": 281,
+          "durationInFrames": 24
+        }
+      ]
+    },
+    {
+      "startFrame": 327,
+      "durationInFrames": 47,
+      "text": "Inside was a draft for fifty",
+      "words": [
+        {
+          "text": "Inside",
+          "startFrame": 327,
+          "durationInFrames": 13
+        },
+        {
+          "text": "was",
+          "startFrame": 340,
+          "durationInFrames": 4
+        },
+        {
+          "text": "a",
+          "startFrame": 345,
+          "durationInFrames": 2
+        },
+        {
+          "text": "draft",
+          "startFrame": 348,
+          "durationInFrames": 11
+        },
+        {
+          "text": "for",
+          "startFrame": 360,
+          "durationInFrames": 5
+        },
+        {
+          "text": "fifty",
+          "startFrame": 366,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 375,
+      "durationInFrames": 63,
+      "text": "dollars... and word that a ticket",
+      "words": [
+        {
+          "text": "dollars...",
+          "startFrame": 375,
+          "durationInFrames": 17
+        },
+        {
+          "text": "and",
+          "startFrame": 409,
+          "durationInFrames": 5
+        },
+        {
+          "text": "word",
+          "startFrame": 415,
+          "durationInFrames": 7
+        },
+        {
+          "text": "that",
+          "startFrame": 422,
+          "durationInFrames": 3
+        },
+        {
+          "text": "a",
+          "startFrame": 426,
+          "durationInFrames": 2
+        },
+        {
+          "text": "ticket",
+          "startFrame": 430,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 439,
+      "durationInFrames": 28,
+      "text": "was waiting for him at the",
+      "words": [
+        {
+          "text": "was",
+          "startFrame": 439,
+          "durationInFrames": 4
+        },
+        {
+          "text": "waiting",
+          "startFrame": 444,
+          "durationInFrames": 8
+        },
+        {
+          "text": "for",
+          "startFrame": 453,
+          "durationInFrames": 3
+        },
+        {
+          "text": "him",
+          "startFrame": 457,
+          "durationInFrames": 4
+        },
+        {
+          "text": "at",
+          "startFrame": 462,
+          "durationInFrames": 2
+        },
+        {
+          "text": "the",
+          "startFrame": 465,
+          "durationInFrames": 2
+        }
+      ]
+    },
+    {
+      "startFrame": 468,
+      "durationInFrames": 70,
+      "text": "shipping line! He raced to the",
+      "words": [
+        {
+          "text": "shipping",
+          "startFrame": 468,
+          "durationInFrames": 10
+        },
+        {
+          "text": "line!",
+          "startFrame": 479,
+          "durationInFrames": 10
+        },
+        {
+          "text": "He",
+          "startFrame": 518,
+          "durationInFrames": 3
+        },
+        {
+          "text": "raced",
+          "startFrame": 522,
+          "durationInFrames": 9
+        },
+        {
+          "text": "to",
+          "startFrame": 532,
+          "durationInFrames": 3
+        },
+        {
+          "text": "the",
+          "startFrame": 535,
+          "durationInFrames": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 540,
+      "durationInFrames": 78,
+      "text": "office, secured his passage — only",
+      "words": [
+        {
+          "text": "office,",
+          "startFrame": 540,
+          "durationInFrames": 12
+        },
+        {
+          "text": "secured",
+          "startFrame": 561,
+          "durationInFrames": 10
+        },
+        {
+          "text": "his",
+          "startFrame": 571,
+          "durationInFrames": 4
+        },
+        {
+          "text": "passage",
+          "startFrame": 577,
+          "durationInFrames": 15
+        },
+        {
+          "text": "—",
+          "startFrame": 591,
+          "durationInFrames": 1
+        },
+        {
+          "text": "only",
+          "startFrame": 611,
+          "durationInFrames": 7
+        }
+      ]
+    },
+    {
+      "startFrame": 618,
+      "durationInFrames": 42,
+      "text": "to be told that third class",
+      "words": [
+        {
+          "text": "to",
+          "startFrame": 618,
+          "durationInFrames": 3
+        },
+        {
+          "text": "be",
+          "startFrame": 621,
+          "durationInFrames": 3
+        },
+        {
+          "text": "told",
+          "startFrame": 625,
+          "durationInFrames": 8
+        },
+        {
+          "text": "that",
+          "startFrame": 633,
+          "durationInFrames": 5
+        },
+        {
+          "text": "third",
+          "startFrame": 639,
+          "durationInFrames": 7
+        },
+        {
+          "text": "class",
+          "startFrame": 648,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 661,
+      "durationInFrames": 32,
+      "text": "was all that remained.",
+      "words": [
+        {
+          "text": "was",
+          "startFrame": 661,
+          "durationInFrames": 5
+        },
+        {
+          "text": "all",
+          "startFrame": 667,
+          "durationInFrames": 4
+        },
+        {
+          "text": "that",
+          "startFrame": 671,
+          "durationInFrames": 4
+        },
+        {
+          "text": "remained.",
+          "startFrame": 675,
+          "durationInFrames": 18
+        }
+      ]
+    }
+  ],
+  "scene-6": [
+    {
+      "startFrame": 1,
+      "durationInFrames": 46,
+      "text": "When Neville rushed to tell Abdullah",
+      "words": [
+        {
+          "text": "When",
+          "startFrame": 1,
+          "durationInFrames": 5
+        },
+        {
+          "text": "Neville",
+          "startFrame": 7,
+          "durationInFrames": 8
+        },
+        {
+          "text": "rushed",
+          "startFrame": 16,
+          "durationInFrames": 8
+        },
+        {
+          "text": "to",
+          "startFrame": 24,
+          "durationInFrames": 3
+        },
+        {
+          "text": "tell",
+          "startFrame": 28,
+          "durationInFrames": 5
+        },
+        {
+          "text": "Abdullah",
+          "startFrame": 33,
+          "durationInFrames": 14
+        }
+      ]
+    },
+    {
+      "startFrame": 48,
+      "durationInFrames": 65,
+      "text": "he had a third-class spot, Abdullah",
+      "words": [
+        {
+          "text": "he",
+          "startFrame": 48,
+          "durationInFrames": 3
+        },
+        {
+          "text": "had",
+          "startFrame": 51,
+          "durationInFrames": 4
+        },
+        {
+          "text": "a",
+          "startFrame": 55,
+          "durationInFrames": 3
+        },
+        {
+          "text": "third-class",
+          "startFrame": 59,
+          "durationInFrames": 18
+        },
+        {
+          "text": "spot,",
+          "startFrame": 79,
+          "durationInFrames": 10
+        },
+        {
+          "text": "Abdullah",
+          "startFrame": 101,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 114,
+      "durationInFrames": 39,
+      "text": "simply repeated his mantra...",
+      "words": [
+        {
+          "text": "simply",
+          "startFrame": 114,
+          "durationInFrames": 8
+        },
+        {
+          "text": "repeated",
+          "startFrame": 122,
+          "durationInFrames": 13
+        },
+        {
+          "text": "his",
+          "startFrame": 136,
+          "durationInFrames": 4
+        },
+        {
+          "text": "mantra...",
+          "startFrame": 141,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 153,
+      "durationInFrames": 61,
+      "text": "\"Who says you're going to Barbados?",
+      "words": [
+        {
+          "text": "\"Who",
+          "startFrame": 153,
+          "durationInFrames": 20
+        },
+        {
+          "text": "says",
+          "startFrame": 175,
+          "durationInFrames": 5
+        },
+        {
+          "text": "you're",
+          "startFrame": 180,
+          "durationInFrames": 3
+        },
+        {
+          "text": "going",
+          "startFrame": 184,
+          "durationInFrames": 6
+        },
+        {
+          "text": "to",
+          "startFrame": 190,
+          "durationInFrames": 3
+        },
+        {
+          "text": "Barbados?",
+          "startFrame": 193,
+          "durationInFrames": 21
+        }
+      ]
+    },
+    {
+      "startFrame": 228,
+      "durationInFrames": 60,
+      "text": "You're ALREADY there — and you",
+      "words": [
+        {
+          "text": "You're",
+          "startFrame": 228,
+          "durationInFrames": 8
+        },
+        {
+          "text": "ALREADY",
+          "startFrame": 238,
+          "durationInFrames": 14
+        },
+        {
+          "text": "there",
+          "startFrame": 254,
+          "durationInFrames": 10
+        },
+        {
+          "text": "—",
+          "startFrame": 277,
+          "durationInFrames": 1
+        },
+        {
+          "text": "and",
+          "startFrame": 278,
+          "durationInFrames": 5
+        },
+        {
+          "text": "you",
+          "startFrame": 284,
+          "durationInFrames": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 288,
+      "durationInFrames": 84,
+      "text": "went first class.\" Two days later,",
+      "words": [
+        {
+          "text": "went",
+          "startFrame": 288,
+          "durationInFrames": 8
+        },
+        {
+          "text": "first",
+          "startFrame": 297,
+          "durationInFrames": 6
+        },
+        {
+          "text": "class.\"",
+          "startFrame": 304,
+          "durationInFrames": 14
+        },
+        {
+          "text": "Two",
+          "startFrame": 353,
+          "durationInFrames": 4
+        },
+        {
+          "text": "days",
+          "startFrame": 357,
+          "durationInFrames": 6
+        },
+        {
+          "text": "later,",
+          "startFrame": 364,
+          "durationInFrames": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 378,
+      "durationInFrames": 58,
+      "text": "on December sixth, Neville arrived to",
+      "words": [
+        {
+          "text": "on",
+          "startFrame": 378,
+          "durationInFrames": 3
+        },
+        {
+          "text": "December",
+          "startFrame": 382,
+          "durationInFrames": 10
+        },
+        {
+          "text": "sixth,",
+          "startFrame": 394,
+          "durationInFrames": 11
+        },
+        {
+          "text": "Neville",
+          "startFrame": 412,
+          "durationInFrames": 8
+        },
+        {
+          "text": "arrived",
+          "startFrame": 421,
+          "durationInFrames": 11
+        },
+        {
+          "text": "to",
+          "startFrame": 433,
+          "durationInFrames": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 437,
+      "durationInFrames": 19,
+      "text": "board the ship.",
+      "words": [
+        {
+          "text": "board",
+          "startFrame": 437,
+          "durationInFrames": 6
+        },
+        {
+          "text": "the",
+          "startFrame": 443,
+          "durationInFrames": 3
+        },
+        {
+          "text": "ship.",
+          "startFrame": 447,
+          "durationInFrames": 9
+        }
+      ]
+    },
+    {
+      "startFrame": 477,
+      "durationInFrames": 51,
+      "text": "At the last possible second, a",
+      "words": [
+        {
+          "text": "At",
+          "startFrame": 477,
+          "durationInFrames": 3
+        },
+        {
+          "text": "the",
+          "startFrame": 480,
+          "durationInFrames": 4
+        },
+        {
+          "text": "last",
+          "startFrame": 484,
+          "durationInFrames": 10
+        },
+        {
+          "text": "possible",
+          "startFrame": 495,
+          "durationInFrames": 13
+        },
+        {
+          "text": "second,",
+          "startFrame": 509,
+          "durationInFrames": 10
+        },
+        {
+          "text": "a",
+          "startFrame": 525,
+          "durationInFrames": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 529,
+      "durationInFrames": 44,
+      "text": "first-class passenger canceled.",
+      "words": [
+        {
+          "text": "first-class",
+          "startFrame": 529,
+          "durationInFrames": 15
+        },
+        {
+          "text": "passenger",
+          "startFrame": 545,
+          "durationInFrames": 12
+        },
+        {
+          "text": "canceled.",
+          "startFrame": 559,
+          "durationInFrames": 14
+        }
+      ]
+    },
+    {
+      "startFrame": 590,
+      "durationInFrames": 39,
+      "text": "Without paying an extra cent...",
+      "words": [
+        {
+          "text": "Without",
+          "startFrame": 590,
+          "durationInFrames": 9
+        },
+        {
+          "text": "paying",
+          "startFrame": 600,
+          "durationInFrames": 8
+        },
+        {
+          "text": "an",
+          "startFrame": 608,
+          "durationInFrames": 3
+        },
+        {
+          "text": "extra",
+          "startFrame": 611,
+          "durationInFrames": 7
+        },
+        {
+          "text": "cent...",
+          "startFrame": 620,
+          "durationInFrames": 9
+        }
+      ]
+    },
+    {
+      "startFrame": 643,
+      "durationInFrames": 57,
+      "text": "Neville walked aboard into a luxury",
+      "words": [
+        {
+          "text": "Neville",
+          "startFrame": 643,
+          "durationInFrames": 9
+        },
+        {
+          "text": "walked",
+          "startFrame": 653,
+          "durationInFrames": 7
+        },
+        {
+          "text": "aboard",
+          "startFrame": 661,
+          "durationInFrames": 16
+        },
+        {
+          "text": "into",
+          "startFrame": 678,
+          "durationInFrames": 6
+        },
+        {
+          "text": "a",
+          "startFrame": 685,
+          "durationInFrames": 2
+        },
+        {
+          "text": "luxury",
+          "startFrame": 688,
+          "durationInFrames": 12
+        }
+      ]
+    },
+    {
+      "startFrame": 701,
+      "durationInFrames": 12,
+      "text": "cabin.",
+      "words": [
+        {
+          "text": "cabin.",
+          "startFrame": 701,
+          "durationInFrames": 12
+        }
+      ]
+    }
+  ]
+}

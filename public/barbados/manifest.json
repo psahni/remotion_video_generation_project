@@ -1,0 +1,59 @@
+{
+  "project": "Neville Goddard - Journey to Barbados (1933)",
+  "tts_settings": {
+    "model": "eleven_v3",
+    "stability": 0.35,
+    "similarity_boost": 0.75,
+    "style": 0.25
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Struggle in NY",
+      "image": "1_Stressed_man_sitting_at_desk_65e7afa9.png",
+      "tone": "Slow, heavy, empathetic. Establish the bleakness.",
+      "narration_v3": "[sighs] [somber, slow] It was late nineteen thirty-three... and the Great Depression was crushing New York City. [heavy, empathetic] Neville Goddard, far from his home in Barbados, found himself completely out of work... and, as he sadly put it, \"didn't have a nickel to his name.\" [quietly] Thousands of miles from family... with no visible way back.",
+      "narration_v2": "It was late nineteen thirty-three... and the Great Depression was crushing New York City. Neville Goddard, far from his home in Barbados, found himself completely out of work... and as he sadly admitted, \"didn't have a nickel to his name.\" Thousands of miles from family... with no visible way back."
+    },
+    {
+      "scene_number": 2,
+      "title": "The Mentor's Decree",
+      "image": "2_Man_pointing_finger_in_study_819f9561.png",
+      "tone": "Intense, deliberate, impactful.",
+      "narration_v3": "[serious, deliberate] Seeking guidance, he went to his mentor and teacher — a mystic known as Abdullah. Neville poured out his desperate wish to be in Barbados for Christmas, confessing the cold, hard truth... zero funds. [pause] [intense, authoritative] Abdullah looked straight at him, and spoke five words that shattered Neville's reality... \"You are ALREADY in Barbados.\"",
+      "narration_v2": "Seeking guidance, he went to his mentor and teacher — a mystic known as Abdullah. Neville poured out his desperate wish to be in Barbados for Christmas, confessing the cold, hard truth... zero funds. Abdullah looked straight at him, and spoke five words with quiet, unshakeable authority... \"You are ALREADY in Barbados.\""
+    },
+    {
+      "scene_number": 3,
+      "title": "The Imagination Exercise",
+      "image": "3_Man_visualizing_tropical_beach_i\u2026_a4e97675.png",
+      "tone": "Ethereal, mysterious, calm, slightly reverent.",
+      "narration_v3": "[curious, slightly confused] Puzzled, Neville tried to argue the facts — [firmly] but Abdullah cut him off. \"You are in Barbados... and you WENT first class.\" [calm, reverent, slow] The instruction was radical. Don't try to go. Don't plan how to go. Instead... fall asleep tonight seeing America FROM Barbados. [softly] Live completely in the feeling of the wish fulfilled.",
+      "narration_v2": "Puzzled, Neville tried to argue the facts — but Abdullah cut him off firmly. \"You are in Barbados... and you WENT first class.\" The instruction was radical, almost hypnotic. Don't try to go. Don't plan how to go. Instead... fall asleep tonight seeing America FROM Barbados. Live completely in the quiet feeling of the wish fulfilled."
+    },
+    {
+      "scene_number": 4,
+      "title": "The Door of Silence",
+      "image": "4_Man_reaching_for_wooden_door_ca631d4a.png",
+      "tone": "Suspenseful, tense, unwavering resolve.",
+      "narration_v3": "[steady, measured] Night after night, Neville practiced this inner state. [tense, frustrated] Yet, a full week later... nothing in his outer life had changed. He returned to Abdullah, anxious to talk about his lack of progress. [stern, cold] Abdullah refused to entertain a single word about reality. He shut the door firmly in Neville's face... forcing him to live solely by his imagination.",
+      "narration_v2": "Night after night, Neville practiced this inner state. Yet, a full week later... nothing in his outer life had changed. He returned to Abdullah, anxious to discuss his lack of progress. Abdullah, however, refused coldly to entertain a single word about reality. He shut the door firmly in Neville's face... forcing him to live solely by his imagination."
+    },
+    {
+      "scene_number": 5,
+      "title": "The Ticket Arrives",
+      "image": "5_Man_holding_ocean_liner_ticket_cb0ca0c7.png",
+      "tone": "Hopeful, energetic, building momentum.",
+      "narration_v3": "[quiet pause] Several weeks passed in silence. [excited, bright] Then... on the morning of December fourth, Neville spotted an envelope slipped under his door! It was from his brother in Barbados. Inside was a draft for fifty dollars... and word that a ticket was waiting for him at the shipping line! [energetic, rushing] He raced to the office, secured his passage — [slight pause, wry] only to be told that third class was all that remained.",
+      "narration_v2": "Several weeks passed in silence. Then... on the morning of December fourth, Neville spotted an envelope slipped under his door! It was from his brother in Barbados. Inside was a draft for fifty dollars... and word that a ticket was waiting for him at the shipping line! He raced excitedly to the office, secured his passage — only to be told, rather flatly, that third class was all that remained."
+    },
+    {
+      "scene_number": 6,
+      "title": "Sailing First Class",
+      "image": "6_Man_standing_on_ocean_liner_76eef033.png",
+      "tone": "Grand, triumphant, deeply satisfying conclusion.",
+      "narration_v3": "[warm, eager] When Neville rushed to tell Abdullah he had a third-class spot, [calm, amused, firm] Abdullah simply repeated his mantra... \"Who says you're going to Barbados? You're ALREADY there — and you went first class.\" [triumphant, expansive] Two days later, on December sixth, Neville arrived to board the ship. At the last possible second, a first-class passenger canceled. Without paying an extra cent... Neville walked aboard into a luxury cabin.",
+      "narration_v2": "When Neville rushed eagerly to tell Abdullah he had a third-class spot, Abdullah simply repeated his mantra with calm certainty... \"Who says you're going to Barbados? You're ALREADY there — and you went first class.\" Two days later, on December sixth, Neville arrived to board the ship. At the last possible second, a first-class passenger canceled. Without paying an extra cent... Neville walked aboard in triumph into a luxury cabin."
+    }
+  ]
+}

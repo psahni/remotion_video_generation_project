@@ -7,3 +7,8 @@ npm-debug.log*
 .env.*
 !.env.example
 *.tsbuildinfo
+
+# Generated media assets are kept local
+/public/audio/generated-videos/
+/public/audio/voice-sample-*.wav
+/public/generated-videos/

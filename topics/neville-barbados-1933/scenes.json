@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene-1",
+    "durationInFrames": 609,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-1.png"
+  },
+  {
+    "id": "scene-2",
+    "durationInFrames": 638,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-2.png"
+  },
+  {
+    "id": "scene-3",
+    "durationInFrames": 857,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-3.png"
+  },
+  {
+    "id": "scene-4",
+    "durationInFrames": 658,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-4.png"
+  },
+  {
+    "id": "scene-5",
+    "durationInFrames": 696,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-5.png"
+  },
+  {
+    "id": "scene-6",
+    "durationInFrames": 720,
+    "visualKey": "image",
+    "imageZoom": 1.22,
+    "image": "generated-videos/neville-barbados-1933/scene-6.png"
+  }
+]
